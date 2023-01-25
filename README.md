@@ -28,6 +28,8 @@ I am a junior App developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read tech articles and learn from my achievements.
 
+- :timer_clock: Now I'm focused on Kotlin, Java and B4X
+
 - :mailbox:How to reach me: <br><a href="https://www.linkedin.com/in/izan-jimenez-0138ab20a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
