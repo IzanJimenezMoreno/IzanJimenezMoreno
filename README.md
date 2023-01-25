@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/izan-jimenez-0138ab20a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@izanjimenezmoreno/featured">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="http://izanjimenez.alwaysdata.net/#header">
+    [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&up_message=ONLINE&url=http%3A%2F%2Fizanjimenez.alwaysdata.net%2F%23header)
   </a>
 </div>
 <h1>
